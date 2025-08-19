@@ -1,0 +1,14 @@
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principio_Yagni\bin\Debug\net8.0\Principio_Yagni.exe
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principio_Yagni\bin\Debug\net8.0\Principio_Yagni.deps.json
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principio_Yagni\bin\Debug\net8.0\Principio_Yagni.runtimeconfig.json
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principio_Yagni\bin\Debug\net8.0\Principio_Yagni.dll
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principio_Yagni\bin\Debug\net8.0\Principio_Yagni.pdb
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principio_Yagni\obj\Debug\net8.0\Principio_Yagni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principio_Yagni\obj\Debug\net8.0\Principio_Yagni.AssemblyInfoInputs.cache
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principio_Yagni\obj\Debug\net8.0\Principio_Yagni.AssemblyInfo.cs
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principio_Yagni\obj\Debug\net8.0\Principio_Yagni.csproj.CoreCompileInputs.cache
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principio_Yagni\obj\Debug\net8.0\Principio_Yagni.dll
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principio_Yagni\obj\Debug\net8.0\refint\Principio_Yagni.dll
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principio_Yagni\obj\Debug\net8.0\Principio_Yagni.pdb
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principio_Yagni\obj\Debug\net8.0\Principio_Yagni.genruntimeconfig.cache
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principio_Yagni\obj\Debug\net8.0\ref\Principio_Yagni.dll

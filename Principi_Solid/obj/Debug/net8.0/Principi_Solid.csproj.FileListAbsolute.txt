@@ -1,0 +1,14 @@
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principi_Solid\bin\Debug\net8.0\Principi_Solid.exe
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principi_Solid\bin\Debug\net8.0\Principi_Solid.deps.json
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principi_Solid\bin\Debug\net8.0\Principi_Solid.runtimeconfig.json
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principi_Solid\bin\Debug\net8.0\Principi_Solid.dll
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principi_Solid\bin\Debug\net8.0\Principi_Solid.pdb
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principi_Solid\obj\Debug\net8.0\Principi_Solid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principi_Solid\obj\Debug\net8.0\Principi_Solid.AssemblyInfoInputs.cache
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principi_Solid\obj\Debug\net8.0\Principi_Solid.AssemblyInfo.cs
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principi_Solid\obj\Debug\net8.0\Principi_Solid.csproj.CoreCompileInputs.cache
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principi_Solid\obj\Debug\net8.0\Principi_Solid.dll
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principi_Solid\obj\Debug\net8.0\refint\Principi_Solid.dll
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principi_Solid\obj\Debug\net8.0\Principi_Solid.pdb
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principi_Solid\obj\Debug\net8.0\Principi_Solid.genruntimeconfig.cache
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principi_Solid\obj\Debug\net8.0\ref\Principi_Solid.dll

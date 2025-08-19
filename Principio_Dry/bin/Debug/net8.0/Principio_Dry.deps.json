@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Principio_Dry/1.0.0": {
+        "runtime": {
+          "Principio_Dry.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Principio_Dry/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

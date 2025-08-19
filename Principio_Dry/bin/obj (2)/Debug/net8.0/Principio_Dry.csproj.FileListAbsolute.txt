@@ -1,0 +1,14 @@
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principio_Dry\bin\Debug\net8.0\Principio_Dry.exe
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principio_Dry\bin\Debug\net8.0\Principio_Dry.deps.json
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principio_Dry\bin\Debug\net8.0\Principio_Dry.runtimeconfig.json
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principio_Dry\bin\Debug\net8.0\Principio_Dry.dll
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principio_Dry\bin\Debug\net8.0\Principio_Dry.pdb
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principio_Dry\obj\Debug\net8.0\Principio_Dry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principio_Dry\obj\Debug\net8.0\Principio_Dry.AssemblyInfoInputs.cache
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principio_Dry\obj\Debug\net8.0\Principio_Dry.AssemblyInfo.cs
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principio_Dry\obj\Debug\net8.0\Principio_Dry.csproj.CoreCompileInputs.cache
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principio_Dry\obj\Debug\net8.0\Principio_Dry.dll
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principio_Dry\obj\Debug\net8.0\refint\Principio_Dry.dll
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principio_Dry\obj\Debug\net8.0\Principio_Dry.pdb
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principio_Dry\obj\Debug\net8.0\Principio_Dry.genruntimeconfig.cache
+C:\Users\luis manuel\Desktop\Itla Educación permanente\C# intermedio\Modulo 1\Semana 3\Principio_Dry\obj\Debug\net8.0\ref\Principio_Dry.dll
